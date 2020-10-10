@@ -33,13 +33,13 @@ bestvars_pk requires:
 ***User installation***
 
 
-If you already have a working installation of scikit-learn, the easiest way to install is using pip available in : https://pypi.org/project/best-vars-pk/
+If you already have a working installation of scikit-learn, the easiest way to install is using pip available in : https://pypi.org/project/bestvarspk/
  >!pip install best-vars-pk
 
 <h2>How to use</h2>
 
         1. Instantiate an objet 'Selection'
-
+                from bestvarspk.Variables_selection import Selection
                 obj = Selecton(df, target)
 where:
 
