@@ -33,7 +33,7 @@ bestvars_pk requires:
 ***User installation***
 
 
-If you already have a working installation of scikit-learn, the easiest way to install is using pip 
+If you already have a working installation of scikit-learn, the easiest way to install is using pip available in : https://pypi.org/project/best-vars-pk/
  >!pip install best-vars-pk
 
 <h2>How to use</h2>
