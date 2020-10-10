@@ -3,10 +3,10 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setup(name='best_vars_pk',
-      version='0.1.8',
+setup(name='bestvarspk',
+      version='0.2',
       description='Bestvars feature_selection methods',
-      packages=['best_vars_pk'],
+      packages=['bestvarspk','bestvarspk.Variables_selection'],
       long_description=long_description,
       long_description_content_type="text/markdown",
       author = 'Gutelvam Rodrigues de Jesus',
