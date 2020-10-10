@@ -2,7 +2,7 @@
 
 The objective of this packege is to simplify the usage of methods to make feature selection.
 
-The Package **bestvars_pk** is a Python module for machine learning built based on top of sklearn feature_selection and is distributed under the  license.
+The Package **bestvarspk** is a Python module for machine learning built based on top of sklearn feature_selection and is distributed under the  license.
 
 The project was started in 2020 by Gutelvam as a Udacity Nanodegree of project.
 
